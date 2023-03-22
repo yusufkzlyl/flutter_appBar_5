@@ -117,8 +117,14 @@ class _HomePageState extends State<HomePage> {
                                       color: Colors.grey, fontSize: 15)),
                             ),
                           )
-                        ]))
-              ])
-        ])));
+                        ]
+                      )
+                    )
+                  ]
+                )
+              ]
+            )
+          )
+       );
+    }
   }
-}
